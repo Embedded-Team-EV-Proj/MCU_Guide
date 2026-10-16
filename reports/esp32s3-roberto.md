@@ -14,9 +14,7 @@ Two or three sentences: Thye ESP32-S3 evaluation board using the Xtensa®dual-co
 
 | Item | Value | Source |
 |---|---|---|
-| Chip and clock speed |Xtensa®
-dual-core 32-bit LX7 microprocessor (with
-single precision FPU), up to 240 MHz |ESP32-S3-WROOM-1 module datasheet P.2 https://documentation.espressif.com/esp32-s3-wroom-1_wroom-1u_datasheet_en.pdf|
+| Chip and clock speed |Xtensa® dual-core 32-bit LX7 microprocessor (with single precision FPU), up to 240 MHz |ESP32-S3-WROOM-1 module datasheet P.2 https://documentation.espressif.com/esp32-s3-wroom-1_wroom-1u_datasheet_en.pdf|
 | Flash / RAM |Up to 16MB of Flash (depends on version) / Up to 16MB of Ram (depends on version)|ESP32-S3-WROOM-1 module datasheet P.3 https://documentation.espressif.com/esp32-s3-wroom-1_wroom-1u_datasheet_en.pdf |
 | Logic voltage |3.3V |ESP32-S3 datasheet P.13 https://documentation.espressif.com/esp32-s3_datasheet_en.pdf |
 | 5 V tolerant pins? |No(Only 3.3V) |ESP32-S3-WROOM-1 module datasheet P. 10-11 https://documentation.espressif.com/esp32-s3-wroom-1_wroom-1u_datasheet_en.pdf|
